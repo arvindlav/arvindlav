@@ -1,0 +1,9 @@
+-- listing properties --
+URL=https://www.zoho.com/index1.html
+Login_xpath=//*[@id="block-system-main"]/div/div[1]/div/div/div[3]/div/div[4]/div/a[1]
+Username_xpath=//*[@id='login_id']
+Login_css=a.login
+Username_id='login_id'
+Login_class='login'
+ 
+https://www.zoho.com/index1.html

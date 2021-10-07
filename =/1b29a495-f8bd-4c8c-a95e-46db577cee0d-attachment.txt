@@ -1,0 +1,2 @@
+INFO     WDM:logger.py:14 Driver [C:\Users\SESA243476\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
+INFO     WDM:logger.py:14 Driver [C:\Users\SESA243476\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache

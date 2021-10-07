@@ -1,0 +1,4 @@
+INFO     WDM:logger.py:14 Getting latest mozilla release info for v0.29.1
+INFO     WDM:logger.py:14 Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.29.1/geckodriver-v0.29.1-win64.zip
+INFO     WDM:logger.py:14 Driver has been saved in cache [C:\Users\SESA243476\.wdm\drivers\geckodriver\win64\v0.29.1]
+INFO     WDM:logger.py:14 Driver [C:\Users\SESA243476\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
